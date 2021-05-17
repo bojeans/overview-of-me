@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Chris Anderson and am currently based in New Zealand
+- 👋 Hi, I’m Chris Anderson and am currently based in Whangarei, New Zealand
 - 👀 I’m interested in travelling, sports and expanding my coding knowledge.
 - 🌱 I’m currently a Full-Stack Web Developer student until end of May 2021. 
 - 🌱 I’m currently learning agile principles and methodologies. This is currently being applied to a team project to create a full stack review ratings app. 

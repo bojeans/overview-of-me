@@ -4,7 +4,8 @@
 - 🌱 I’m currently learning agile principles and methodologies. This is currently being applied to a team project to create a full stack review ratings app. 
 - 🌱 2020-2021 So far I’ve been exposed to HTML5, CSS3, Modern Javascript - for example arrow functions, PERN/MERN (postgres/mongodb, express, react, node), REST API & CRUD, jest testing, AWS Copilot
 - 💞️ I’m looking for full time work, ideally remotely although willing to relocate for the right opportunity
-- 📫 How to reach me: chris.d.anderson87@gmail.com
+- 📫 How to reach me: chris.d.anderson87@gmail.com 
+- https://www.linkedin.com/in/chris-anderson-4b289b189/
 
 <!---
 bojeans/bojeans is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
